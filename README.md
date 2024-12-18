@@ -40,6 +40,7 @@ This project showcases the deployment and configuration of log analysis tools in
   _Result_: Successfully created the webhost VM and configured the network.  
 
 
+![Webhost Creation](webhost-creation.png)
 
   ![Webhost Setup](screenshots/webhost-setup.png)
 
