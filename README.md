@@ -40,6 +40,15 @@ This project showcases the deployment and configuration of log analysis tools in
 
 
 
+
+![Apache2 Installation](apache2installlation.png)
+
+
+
+
+
+
+
 - **Webhost VM created, hostname, DNS, IP, user account**  
   _Objective_: Set up the webhost VM with hostname, DNS, and user accounts.  
   _Result_: Successfully created the webhost VM and configured the network.  
