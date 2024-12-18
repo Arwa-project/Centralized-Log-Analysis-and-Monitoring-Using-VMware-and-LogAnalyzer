@@ -59,7 +59,7 @@ This project showcases the deployment and configuration of log analysis tools in
 
 ![Webhost Creation](webhost-creation.png)
 
-  ![Webhost Setup](screenshots/webhost-setup.png)
+  
 
 - **Apache2 installed, Apache2 logging to syslog, firewall configured**  
   _Objective_: Install Apache2 and configure logging to syslog.  
@@ -67,14 +67,14 @@ This project showcases the deployment and configuration of log analysis tools in
 
 
  
-  ![Apache2 Configuration](screenshots/apache2-config.png)
+  
 
 - **Webhost sending logs to MySQL on Loghost**  
   _Objective_: Configure webhost to forward logs to loghost's MySQL database.  
   _Result_: Successfully configured and verified log forwarding.  
 
 
-  ![Logs to Loghost](screenshots/logs-to-loghost.png)
+  
 
 - **LogAnalyzer running properly**  
   _Objective_: Deploy LogAnalyzer to analyze logs from MySQL in a graphical interface.  
@@ -82,7 +82,7 @@ This project showcases the deployment and configuration of log analysis tools in
 
 
  
-  ![LogAnalyzer Interface](screenshots/loganalyzer-interface.png)
+
 
 ---
 
@@ -96,16 +96,4 @@ This project showcases the deployment and configuration of log analysis tools in
 
 ---
 
-## Repository Contents
 
-- `README.md`: This documentation file.
-- `screenshots/`: Contains all screenshots demonstrating the steps and results.
-
----
-
-## How to Use
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/<your-username>/Log-Analysis-Tools-Deployment.git
-   cd Log-Analysis-Tools-Deployment
