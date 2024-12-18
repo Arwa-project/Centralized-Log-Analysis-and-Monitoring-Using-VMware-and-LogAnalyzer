@@ -48,6 +48,9 @@ This project showcases the deployment and configuration of log analysis tools in
 
 
 
+![Web Server Statistics](web-server-statistics.png) 
+
+
 
 - **Webhost VM created, hostname, DNS, IP, user account**  
   _Objective_: Set up the webhost VM with hostname, DNS, and user accounts.  
