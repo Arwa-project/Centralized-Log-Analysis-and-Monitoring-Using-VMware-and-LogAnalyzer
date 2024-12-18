@@ -21,10 +21,17 @@ This project showcases the deployment and configuration of log analysis tools in
 
 - **analog, fwanalog run, valid reports generated**  
   _Objective_: Generate valid log analysis reports using Analog and Fwanalog.  
-  _Result_: Successfully ran Analog and Fwanalog to create accurate reports.
+
+![Analog Report](analog1.png) 
+ 
 
 
-  ![Analog Report](screenshots/analog-report.png)
+
+
+
+
+
+
 
 
 
