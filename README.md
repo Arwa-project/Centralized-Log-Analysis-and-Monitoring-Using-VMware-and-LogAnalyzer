@@ -30,7 +30,7 @@ This project showcases the deployment and configuration of log analysis tools in
 
 
 
-
+![pfSense Router Configuration](pfsense1.png)
 
 
 
